@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # leave blank to use full name
+title: Levente Zólyomi
 first_name: Levente
 middle_name:
 last_name: Zolyomi
 contact_note: >
   Feel free to reach out via email or any of the socials below.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student at JKU Linz & NXAI — time series foundation models, linear/nonlinear RNNs, self-supervised learning.
+  PhD Researcher at NXAI & PhD student at JKU Linz — efficient subquadratic architectures, time series foundation models, RNNs, self-supervised learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: time series, foundation models, linear RNNs, nonlinear RNNs, self-supervised learning, world models, JEPA, deep learning
+keywords: time series, foundation models, linear RNNs, nonlinear RNNs, subquadratic architectures, self-supervised learning, deep learning
 lang: en
 icon: 📈
 
