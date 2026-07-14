@@ -23,6 +23,6 @@ latest_posts:
   limit: 3
 ---
 
-I'm a PhD Researcher at NXAI and a PhD student at the Institute for Machine Learning, JKU Linz, advised by Prof. Sepp Hochreiter. Before starting my PhD, I was a researcher at King AI Labs (Microsoft Gaming) in Stockholm, Sweden. I hold a master's degree from Aalto University in Helsinki and Eindhoven University of Technology.
+I'm a PhD Researcher at NXAI and a PhD student at the Institute for Machine Learning, JKU Linz, advised by Prof. Sepp Hochreiter. Before starting my PhD, I was a researcher at King AI Labs (Microsoft Gaming) in Stockholm, Sweden. I hold a joint master's degree from Aalto University (Helsinki, Finland) and Eindhoven University of Technology (Eindhoven, Netherlands).
 
 My research focuses on efficient subquadratic architectures for sequence modeling. In particular, I work on time series foundation models and linear and nonlinear RNNs as scalable alternatives to Transformers, as well as self-supervised learning methods for sequential data.
